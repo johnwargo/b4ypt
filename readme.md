@@ -6,11 +6,12 @@ It's really Salaries and Benefits for YMCA Personal Trainers.
 
 ## Tasks
 
-- [ ] Disclaimer - YMCA Personal Trainers were not involved in any way with the creation of this site or petition. 
+- [x] Disclaimer
 - [ ] Image credits
 - [ ] Icon & Manifest
 - [ ] Optimize image files
 - [ ] Setup petition & Link (https://www.ipetitions.com/)
+- [ ] Google Analytics
 - [ ] Make yard signs and placards
 - [ ] Make business cards
 
